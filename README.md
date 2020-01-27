@@ -25,7 +25,7 @@ Build and run:
 # Security Advices
 
 Please take care by yourself in order to provide an enhanced security setup before you use this in production!
-    
+And please feel free at any time to contribute your security relevant hints and tips directly into this repository.
 
 # Sources and Tutorials
 
