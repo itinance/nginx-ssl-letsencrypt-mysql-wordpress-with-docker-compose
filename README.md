@@ -29,8 +29,8 @@ Please take care by yourself in order to provide an enhanced security setup befo
 
 # Sources and Tutorials
 
-https://blog.ssdnodes.com/blog/tutorial-getting-started-with-docker-on-your-vps/
-https://blog.ssdnodes.com/blog/host-multiple-ssl-websites-docker-nginx/
-https://github.com/jwilder/nginx-proxy
-https://raw.githubusercontent.com/jwilder/nginx-proxy/master/nginx.tmpl
-https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
+1. https://blog.ssdnodes.com/blog/tutorial-getting-started-with-docker-on-your-vps/
+2. https://blog.ssdnodes.com/blog/host-multiple-ssl-websites-docker-nginx/
+3. https://github.com/jwilder/nginx-proxy
+4. https://raw.githubusercontent.com/jwilder/nginx-proxy/master/nginx.tmpl
+5. https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
