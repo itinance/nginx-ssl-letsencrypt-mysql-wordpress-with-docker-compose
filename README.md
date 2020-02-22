@@ -34,3 +34,4 @@ And please feel free at any time to contribute your security relevant hints and 
 3. https://github.com/jwilder/nginx-proxy
 4. https://raw.githubusercontent.com/jwilder/nginx-proxy/master/nginx.tmpl
 5. https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
+6. https://towardsdatascience.com/top-20-docker-security-tips-81c41dd06f57
